@@ -9,18 +9,17 @@ Images are stored in an Amazon AWS S3 Bucket. Associated image URLs are stored i
 # Demo
 
 S3 Bucket:
-![plot](./readme_images/aws.png)
-[My image](CoalGravel.github.com/Shopify-developer-intern-challenge/readme_images/aws.png)
+![1](readme_images/aws.PNG)
 
 MongoDB Database:
-![plot](./readme_images/mongoDB.png)
+![2](readme_images/mongoDB.PNG)
 
 Walkthrough of upload process:
-![plot](./readme_images/homepage.png)
-![plot](./readme_images/button_click.png)
-![plot](./readme_images/cropper_open.png)
-![plot](./readme_images/cropper_use.png)
-![plot](./readme_images/picture_uploaded.png)
+![3](readme_images/homepage.PNG)
+![4](readme_images/button_click.PNG)
+![5](readme_images/cropper_open.PNG)
+![6](readme_images/cropper_use.PNG)
+![7](readme_images/picture_uploaded.PNG)
 
 # Running it yourself
 
