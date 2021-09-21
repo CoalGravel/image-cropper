@@ -10,6 +10,7 @@ Images are stored in an Amazon AWS S3 Bucket. Associated image URLs are stored i
 
 S3 Bucket:
 ![plot](./readme_images/aws.png)
+[My image](CoalGravel.github.com/Shopify-developer-intern-challenge/readme_images/aws.jpg)
 
 MongoDB Database:
 ![plot](./readme_images/mongoDB.png)
