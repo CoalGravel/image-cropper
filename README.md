@@ -2,6 +2,8 @@
 
 My submission. TASK: Build an image repository.
 
+This project demonstrates the ability to upload, crop, and preview a "profile picture".
+
 # Implementation
 
 Images are stored in an Amazon AWS S3 Bucket. Associated image URLs are stored in a MongoDB database. Webapp created using React, Express, Node, Mongoose, Multer.
@@ -25,7 +27,7 @@ Walkthrough of upload process:
 
 1. Run `npm install` in both the repository root directory and `/server/`
 2. Copy the contents of `/server/config.env.example` into a new file called `/server/config.env`
-3. Supply the necessary information to `/server/config.env`\*
+3. Supply the necessary information to `/server/config.env`\* UPDATE: temporarily not required
 4. Run `npm run start` in the root directory
 5. Open a second terminal and run `npm run server` in `/server/`
 
