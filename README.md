@@ -29,7 +29,7 @@ Walkthrough of upload process:
 2. Copy the contents of `/server/config.env.example` into a new file called `/server/config.env`
 3. Supply the necessary information to `/server/config.env`\* UPDATE: temporarily not required
 4. Run `npm run start` in the root directory
-5. Open a second terminal and run `npm run server` in `/server/`
+5. Open a second terminal and run `npm run start` in `/server/`
 
 \*This will require a MongoDB Atlas and AWS account. If you do not want to go through those steps, then you can skip step 5. You will still be able to interact with the front end, but the databases will not be connected so the cropped image will not be displayed at the end. Here is the download link for the image I cropped and uploaded in the demo as some extra proof that the backend works:
 
