@@ -1,6 +1,6 @@
-# Shopify-developer-intern-challenge
+# image-cropper
 
-My submission. TASK: Build an image repository.
+TASK: Build an image repository.
 
 This project demonstrates the ability to upload, crop, and preview a "profile picture".
 
